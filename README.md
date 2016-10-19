@@ -5,10 +5,4 @@ Dokumentasi :
 
 
 Kontribusi :
-- Ilham Akbar           :
-- Tri Annisa Hidayati   :
-- Andika CP             :
-- Candra Dewi Jodistiara:
-- Kurniawan Eka Nugraha :
-- Fahrul Rozi M         :
-- Rizki Hakim           :
+- Bekerja sama dalam membuat program (tugas) dan mencari referensi untuk mengerjakannya
